@@ -1,0 +1,20 @@
+test_project
+	test_case
+		public 
+			base_page
+			 	login_page
+			  		dashboard_page
+			 	active_page
+			 	register_page
+			readFile
+	 	test_login_page
+	 	test_active_email_page
+	 	test_open_shipan_page
+	 	test_accountInfo_page
+	 
+	 test_data
+	 	data.file
+	 result
+	    image     
+	 doc 
+	 	readme.txt
